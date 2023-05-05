@@ -1,3 +1,12 @@
+/*materials:
+- arduino uno board
+- 3 leds
+- wires (get a few)
+- one button
+- three 1200 ohm resistors
+- one 300 ohm resistor
+*/
+
 int switchstate = 0;
 
 void setup() {
