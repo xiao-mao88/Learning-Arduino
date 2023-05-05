@@ -1,6 +1,6 @@
 /*materials:
 - arduino uno board
-- 3 leds
+- 3 leds (cathode-short leg- to resistor and anode- long leg- to ground)
 - wires (get a few)
 - one button
 - three 1200 ohm resistors
