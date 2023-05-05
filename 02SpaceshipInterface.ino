@@ -5,6 +5,8 @@
 - one button
 - three 1200 ohm resistors
 - one 300 ohm resistor
+
+press the button and the leds will light up in a pattern (3..2..1..launch)
 */
 
 int switchstate = 0;
