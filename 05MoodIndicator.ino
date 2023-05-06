@@ -1,8 +1,8 @@
 #include <Servo.h>
 /*materials:
 - arduino board
-- one potentiometer
-- 2 100 microfarad capacitors 
+- one 10k ohm potentiometer
+- 2 100 microfarad electrolytic capacitors 
 - one servo motor with a pointer
 
 when you turn the potentiometer, the servo will also spin, causing 
