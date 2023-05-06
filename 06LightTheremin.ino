@@ -1,9 +1,9 @@
 /*materials:
 - arduino board
 - wires (get a few)
-- 1 300 ohm resistor
-- one piezo
-- one photoresistor
+- 1 10k ohm resistor
+- 1 piezo
+- 1 photoresistor
 
 when light hits the photoresistor, the piezo will let out a frequency 
 if you cover the photoresistor, then the frequency will be lower
