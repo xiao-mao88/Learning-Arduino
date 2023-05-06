@@ -1,9 +1,9 @@
 /*materials:
 - arduino board
 - wires (get a few)
-- 3 1200 ohm resistors
+- 3 10k ohm resistors
+- 3 220 ohm resistors
 - 3 photoresistors
-- 3 colored gels
 - 1 RGB led (has 4 legs)
 - 3 colored gels (red, blue, green)
 
