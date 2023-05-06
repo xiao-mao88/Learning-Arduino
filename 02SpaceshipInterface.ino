@@ -3,8 +3,8 @@
 - 3 leds (cathode-short leg- to resistor and anode- long leg- to ground)
 - wires (get a few)
 - one button
-- three 1200 ohm resistors
-- one 300 ohm resistor
+- three 220 ohm resistors
+- one 10k ohm resistor
 
 press the button and the leds will light up in a pattern (3..2..1..launch)
 */
