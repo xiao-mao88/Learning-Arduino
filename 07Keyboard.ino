@@ -1,10 +1,10 @@
 /*materials:
 - arduino board
 - wires (get a few)
-- 2 300 ohm resistors
-- 1 500 ohm resistor
-- 1 1200 ohm resistor
-- one piezo
+- 2 10k ohm resistors
+- 1 220 ohm resistor
+- 1 1mil ohm resistor
+- 1 piezo
 - 4 buttons
 
 resistors on the board control the frequencies that the piezo emits
