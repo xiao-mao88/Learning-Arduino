@@ -2,8 +2,8 @@
 - arduino board
 - wires (get a few)
 - 6 leds
-- 6 1200 ohm resistors
-- 1 300 ohm resistor
+- 6 220 ohm resistors
+- 1 10k ohm resistor
 - 1 tilt switch
 
 tilt the switch and the 'hourglass' will reset (this code is modified
