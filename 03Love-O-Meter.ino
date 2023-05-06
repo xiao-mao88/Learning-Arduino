@@ -2,7 +2,7 @@
 - arduino board
 - 3 leds (cathode-short leg- to resistor and anode- long leg- to ground)
 - wires (get a few)
-- 3 1200 ohm resistors
+- 3 220 ohm resistors
 - 1 low voltage temp sensor (TMP36)
 
 once the program is uploaded, tough the low voltage temp sensor to
