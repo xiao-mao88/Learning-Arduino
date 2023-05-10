@@ -1,3 +1,16 @@
+/*materials:
+- arduino board
+- wires (get a few)
+- 1 220 ohm resistor
+- 1 10k ohm resistor
+- 1 10k ohm potentiometer
+- 16x2 LCD screen
+- 1 tilt switch
+
+tilt the arduino board (which will tilt the tilt switch) after you 
+ask a question; you will receive an answer
+*/
+
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
