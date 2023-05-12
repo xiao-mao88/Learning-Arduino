@@ -7,7 +7,7 @@
 - 1 button
 - 1 piezo
 - 1 100 microfarad capacitor
-- 1 1 megaohm resistor
+- 1 1mil ohm resistor
 - 1 servo motor
 
 knock on the piezo three times at just the right volume and the 
